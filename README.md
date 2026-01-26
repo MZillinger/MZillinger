@@ -5,7 +5,7 @@ high-performance scientific code. My research focuses on precision calculations 
 
 I am particularly interested in the interface between
 - analytical theory,
-- numerical algorithms, and
+- numerical algorithms
 - efficient implementations in various programming languages.
 
 ---
