@@ -4,9 +4,9 @@ I am a PhD student in theoretical particle physics, working on numerical methods
 high-performance scientific code. My research focuses on precision calculations for the muon g-2. In particular I worked on the hadronic light-by-light (HLbL) scattering contribution to muon $g-2$.
 
 I am particularly interested in the interface between
-- analytical theory,
+- analytical theory
 - numerical algorithms
-- efficient implementations in various programming languages.
+- efficient implementations in various programming languages
 
 ---
 
