@@ -1,7 +1,7 @@
 # Hi, I’m Maximilian Zillinger
 
 I am a PhD student in theoretical particle physics, working on numerical methods and
-high-performance scientific code. My research focuses on precision calculations for the muon g-2.
+high-performance scientific code. My research focuses on precision calculations for the muon g-2. In particular I worked on the hadronic light-by-light (HLbL) scattering contribution to muon $g-2$.
 
 I am particularly interested in the interface between
 - analytical theory,
@@ -12,16 +12,15 @@ I am particularly interested in the interface between
 
 ## Featured Projects
 
-- **[Muon g-2 Integrator](https://github.com/MZillinger/Tensor_Mesons)**  
-  High-performance C code for multi-dimensional Monte Carlo integration in precision particle physics.
+- **[Tensor Mesons for HLbL](https://github.com/MZillinger/Tensor_Mesons)**  
+  Evaluation of Tensor Mesons for HLbL
 
-- **[Project Name](link)**  
-  One-line description (numerics, physics, tools, etc.).
+- **[Matching Procedure for HLbL](https://github.com/MZillinger/Matching_procedure_for_HLbL)**  
+  Matching procedure for hadronic intermediate states and short-distance constraints
 
-- **[Project Name](link)**  
-  One-line description.
+- **[Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**  
+  New Basis for HLbL suited for narrow-resonance contributions, especially Axial-vector states
 
-*(You can pin these repositories on your profile so they appear here visually as well.)*
 
 ---
 
