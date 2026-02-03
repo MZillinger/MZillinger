@@ -41,8 +41,8 @@ I specialize in:
 
 ## 🧬 Featured Projects
 
-### **[CP violation in $\eta^{(\prime) decays}](https://github.com/MZillinger/CP_violation_eta_decays)**
-> *Phenomenology of the process $\eta'\to\eta\pi\pi$ and statistical analysis.*
+### **[CP violation in $\eta^{(\prime)}$ decays}](https://github.com/MZillinger/CP_violation_eta_decays)**
+> *Phenomenology and statistical analysis of particle decay process.*
 Statistical modeling framework for the decay $\eta'\to\eta\pi\pi$, implementing Maximum Likelihood Estimation (MLE) and numerical integration pipelines to analyze experimental data.
 
 ### **[Tensor Mesons for HLbL](https://github.com/MZillinger/Tensor_Mesons)**
