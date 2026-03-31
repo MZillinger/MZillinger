@@ -44,7 +44,11 @@ I specialize in:
 
 ### **[CP violation in meson decays](https://github.com/MZillinger/CP_violation_eta_decays)**
 > *Phenomenology and statistical analysis of particle decay process.*
-Statistical modeling framework for the decay $\eta'\to\eta\pi\pi$, implementing Maximum Likelihood Estimation (MLE) and numerical integration pipelines to analyze experimental data.
+Statistical modeling framework for the decay $\eta' \to \eta\pi\pi$, using a Chiral Perturbation Theory–based hadronic model fitted to branching-ratio and Dalitz-distribution data, with parameter estimation and uncertainty analysis based on covariance matrices, residuals, and $\chi^2$ statistics.
+
+### **[Normalizing Flows for Monte Carlo Integration](https://github.com/MZillinger/NormalizingFlows)**
+> *Machine learning for variance reduction in Monte Carlo integration.*
+A PyTorch-based project using **normalizing flows** with affine coupling layers to learn efficient importance-sampling distributions for difficult target functions, including physics-inspired resonance structures and high-dimensional benchmark distributions. The goal is to reduce Monte Carlo variance and improve the statistical precision of numerical integrations.
 
 ### **[Tensor Mesons for HLbL](https://github.com/MZillinger/Tensor_Mesons)**
 > *Numerical evaluation of Tensor Meson contributions.*
@@ -52,19 +56,17 @@ A project focused on evaluating the contributions of tensor mesons, in particula
 
 ### **[Matching Procedure for HLbL](https://github.com/MZillinger/Matching_procedure_for_HLbL)**
 > *Asymptotic matching for hadronic intermediate states.*
-Implements a rigorous matching procedure to align hadronic intermediate states with short-distance constraints, bridging low-energy phenomenology and perturbative QCD.
+Built a computational framework to match low-energy hadronic models to perturbative QCD constraints, solving challenging multidimensional dispersive integrals with non-trivial cut structures and implementing efficient Julia and C code for large-scale numerical calculations.
 
 ### **[Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**
 > *Algorithm optimization for narrow-resonance contributions.*
 Introduces a new basis suited for narrow-resonance contributions, specifically for removing singularities for Axial-vector states and optimizing convergence/stability for pion-box contribution.
 
----
-
 ## 🎓 Background
 
-* **PhD in Theoretical Particle Physics** | University of Bern
-* **Focus:** Hadronic Contributions to muon $g-2$.
-* **Tools:** Julia, Python, C/C++, Mathematica.
+* **PhD in Theoretical Particle Physics** | University of Bern  
+* **Research Focus:** Hadronic contributions to the muon $g-2$, efficient scientific computing in Julia and C, and statistical analysis with Python.  
+* **Tools:** Julia, Python, C/C++, Mathematica
 
 ---
 
