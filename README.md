@@ -15,7 +15,7 @@
 
 ## 🔭 About Me
 
-I am a researcher focused on **precision calculations for the muon $g-2$**, specifically the hadronic light-by-light (HLbL) scattering contribution. My work lies in translating complex theoretical physics into **efficient code**, performing **data analysis** and **fits** with Python.
+I am a researcher focused on **precision calculations for the muon $g-2$**, specifically the hadronic light-by-light (HLbL) scattering contribution. My work focuses on translating complex theoretical physics into **efficient code**, conducting **data analysis** and **model fitting** in Python, and implementing **normalizing flows** with **PyTorch**.
 
 I specialize in:
 * **Scientific Computing:** Developing numerical methods for high-precision physics, with a focus on Monte Carlo integration and uncertainty reduction.
