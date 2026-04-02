@@ -42,7 +42,7 @@ I specialize in:
 
 ## 🧬 Featured Projects
 
-### **[CP violation in meson decays](https://github.com/MZillinger/CP_violation_eta_decays)**
+### **[Statistical Inference in Meson Decays](https://github.com/MZillinger/CP_violation_eta_decays)**
 > *Phenomenology and statistical analysis of particle decay process.*
 Statistical modeling framework for the decay $\eta' \to \eta\pi\pi$, using a Chiral Perturbation Theory–based hadronic model fitted to branching-ratio and Dalitz-distribution data, with parameter estimation and uncertainty analysis based on covariance matrices, residuals, and $\chi^2$ statistics.
 
@@ -50,17 +50,17 @@ Statistical modeling framework for the decay $\eta' \to \eta\pi\pi$, using a Chi
 > *Machine learning for variance reduction in Monte Carlo integration.*
 A PyTorch-based project using **normalizing flows** with affine coupling layers to learn efficient importance-sampling distributions for difficult target functions, including physics-inspired resonance structures and high-dimensional benchmark distributions. The goal is to reduce Monte Carlo variance and improve the statistical precision of numerical integrations.
 
-### **[Tensor Mesons for HLbL](https://github.com/MZillinger/Tensor_Mesons)**
-> *Numerical evaluation of Tensor Meson contributions.*
-A project focused on evaluating the contributions of tensor mesons, in particular the $f_{2}$ meson, to hadronic Light-by-Light scattering.
-
-### **[Matching Procedure for HLbL](https://github.com/MZillinger/Matching_procedure_for_HLbL)**
+> ### **[Matching Procedure for HLbL and Efficient Solution in Julia](https://github.com/MZillinger/Matching_procedure_for_HLbL)**
 > *Asymptotic matching for hadronic intermediate states.*
 Built a computational framework to match low-energy hadronic models to perturbative QCD constraints, solving challenging multidimensional dispersive integrals with non-trivial cut structures and implementing efficient Julia and C code for large-scale numerical calculations.
 
-### **[Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**
+> ### **[New Algorithm resulting in Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**
 > *Algorithm optimization for narrow-resonance contributions.*
 Introduces a new basis suited for narrow-resonance contributions, specifically for removing singularities for Axial-vector states and optimizing convergence/stability for pion-box contribution.
+
+### **[Tensor Mesons for HLbL](https://github.com/MZillinger/Tensor_Mesons)**
+> *Numerical evaluation of Tensor Meson contributions.*
+A project focused on evaluating the contributions of tensor mesons, in particular the $f_{2}$ meson, to hadronic Light-by-Light scattering.
 
 ## 🎓 Background
 
