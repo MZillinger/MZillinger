@@ -50,11 +50,11 @@ Statistical modeling framework for the decay $\eta' \to \eta\pi\pi$, using a Chi
 > *Machine learning for variance reduction in Monte Carlo integration.*
 A PyTorch-based project using **normalizing flows** with affine coupling layers to learn efficient importance-sampling distributions for difficult target functions, including physics-inspired resonance structures and high-dimensional benchmark distributions. The goal is to reduce Monte Carlo variance and improve the statistical precision of numerical integrations.
 
-> ### **[Matching Procedure for HLbL and Efficient Solution in Julia](https://github.com/MZillinger/Matching_procedure_for_HLbL)**
+### **[Matching Procedure for HLbL and Efficient Solution in Julia](https://github.com/MZillinger/Matching_procedure_for_HLbL)**
 > *Asymptotic matching for hadronic intermediate states.*
 Built a computational framework to match low-energy hadronic models to perturbative QCD constraints, solving challenging multidimensional dispersive integrals with non-trivial cut structures and implementing efficient Julia and C code for large-scale numerical calculations.
 
-> ### **[New Algorithm resulting in Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**
+### **[New Algorithm resulting in Optimized Basis for HLbL](https://github.com/MZillinger/Optimized_basis)**
 > *Algorithm optimization for narrow-resonance contributions.*
 Introduces a new basis suited for narrow-resonance contributions, specifically for removing singularities for Axial-vector states and optimizing convergence/stability for pion-box contribution.
 
